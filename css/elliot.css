@@ -1,25 +1,31 @@
 html, body{
 	font-family: Arial, sans-serif;
 	margin:0; 
+	background-color: #deeaea
+
 }
+
 
 
 header{
 	background-color: #17384B;
-	padding: 100px;
+	padding: 80px;
+
 	text-align: center;
+	
 
 }
 
 h1{
-	font-size: 90px;
-	color: white;
+	margin-top: 25px;
+    font-size: 72px;
+    color: white;
 }
 
 header img{
 
 	border-radius: 170px;
-	width: 300px;
+	width: 200px;
 	border: 15px solid #eaad33
 }
 
@@ -27,6 +33,7 @@ header img{
 	max-width: 900px;
 	margin:0 auto;
 	padding:0 20px;
+	text-align: center;
 }
 img.big-image{
 	max-width: 100%;
